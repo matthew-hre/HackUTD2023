@@ -1,41 +1,47 @@
 # GITKU
 
-## Getting Started
+## About 🥰
+The art of poetry, a timeless and profound expression of human emotions, has often been overlooked in the world of technology. In the fast-paced realm of software development, where code and algorithms reign supreme, the poetic and creative aspect of communication has sometimes been lost. However, reintroducing creativity and joy into seemingly mundane aspects of technology, such as GitHub commit messages, can be a powerful way to reconnect with our human spirit. By infusing these messages with imaginative language, humor, and poetic touches, developers can bring a sense of warmth and connection to the collaborative process. In doing so, they contribute to a more harmonious and empathetic tech community, ultimately reminding us that the pursuit of peace can begin with the simplest lines of code. The union of technology and poetry can lead to a world where innovation and humanity coexist, bridging the gap between the digital and emotional realms.
 
-💌 CLONE THE REPOSITORY AND INSTALL THE REQUIRED Node.js PACKAGES USING NPM OR YARN 💌
+     💐 Lost tech poetry 💐
+⭐ GitHub's creative keystrokes ⭐
+  💖 World peace in each line 💖
 
+## Getting Started 🤟
+
+💌 CLONE THE SOURCE AND INSTALL, Node.js MAGIC'S THRALL, YARN OR NPM'S CALL 💌
 ```bash
 npm install
 # or
 yarn add
 ```
 
-💌 CREATE A `.env` FILE WITH YOUR VERY OWN OPENAI API KEY 💌
+💌 IN AN .env, YOUR OpenAI'S KEY, UNLOCKING REALMS OF CREATIVITY 💌
+```env
+OPENAI_API_KEY=YOUR_KEY_HERE
+```
 
-RUN THE FOLLOWING COMMANDS TO BLESS THY SYSTEM WITH THE POWER OF GITKU
-
+💌 RUN COMMANDS, GRANT GITKU'S MIGHT 💌 
 ```bash
 npm link
 # or
 yarn link
 ```
 
-💌 RUN THE SCRIPT WITH THE FOLLOWING COMMAND, PROVIDING YOUR COMMIT MESSAGE AS AN ARGUMENT 💌
-
+💌 INVOKE THE SCRIPT'S GRACE, WITH THIS COMMAND SET THE STAGE 💌
 ```bash
-node gitku.js  --message "Your commit message here"
+gitku --message "Your commit message here"
 ```
 
-💌 EMBRACE THE POET HIDDEN IN YOUR CODE 💌
+💌 EMBRACE THE WORDSMITH, VEILED IN YOUR CODE'S ABODE 💌
 
-## Contributing
+## Contributing 🤞
+Feel the freedom, contribute with glee,
+To keep version control an artwork to see.
 
-Please do not contribute to this project by creating pull requests and suggesting improvements. Let's keep version control history exactly this artistic and engaging!
+## License 🤥
+Under the ISC's grace, this project's soul,
+Details in LICENSE, its purpose, its goal.
 
-## License
-
-This project is licensed under the ISC License. See the LICENSE file for details.
-
-## Acknowledgments
-
+## Acknowledgments 🤭
 Special thanks to OpenAI for providing a powerful language model and HackUTD for giving us the opportunity to explore the beauty of haikus and other poetic forms in commit messages.
