@@ -3,9 +3,9 @@
 ## About 🥰
 The art of poetry, a timeless and profound expression of human emotions, has often been overlooked in the world of technology. In the fast-paced realm of software development, where code and algorithms reign supreme, the poetic and creative aspect of communication has sometimes been lost. However, reintroducing creativity and joy into seemingly mundane aspects of technology, such as GitHub commit messages, can be a powerful way to reconnect with our human spirit. By infusing these messages with imaginative language, humor, and poetic touches, developers can bring a sense of warmth and connection to the collaborative process. In doing so, they contribute to a more harmonious and empathetic tech community, ultimately reminding us that the pursuit of peace can begin with the simplest lines of code. The union of technology and poetry can lead to a world where innovation and humanity coexist, bridging the gap between the digital and emotional realms.
 
-     💐 Lost tech poetry 💐
+💐 Lost tech poetry 💐
 ⭐ GitHub's creative keystrokes ⭐
-  💖 World peace in each line 💖
+💖 World peace in each line 💖
 
 ## Getting Started 🤟
 
